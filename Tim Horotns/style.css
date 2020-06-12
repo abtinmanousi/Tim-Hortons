@@ -1,0 +1,22 @@
+body {
+    width: 800px;
+    margin: auto;
+
+
+    background-image: url(Tim_Hortons_logo.png);
+    background-repeat: no-repeat;
+    background-image: url(LijzCq.jpg);
+    margin-top: 30px;
+    background-size: cover;
+}
+
+.div {
+    background-color: rgb(241, 175, 175);
+    border-radius: 14px;
+    border: 5px solid red;
+    padding: 15px 35px;
+}
+
+.btn {
+    background-color: lightblue;
+}
